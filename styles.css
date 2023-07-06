@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+/* Your CSS Code he
+re. */
+.main {
+	border:1px solid ;
+	width: 200px;
+	background-color: rgb(128, 0, 128);
+	border-left-color: rgb(0, 128, 0);
+	border-left-width: 5px;
+	padding: 10px;
+
+}
+#heading{
+	font-size: 20px;
+	color: white;
+	text-decoration: underline;
+}
+}
